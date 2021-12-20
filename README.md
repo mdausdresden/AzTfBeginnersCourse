@@ -1,4 +1,6 @@
-# AzTfBeginners
+# AzTfBeginnersCourse
+
+https://github.com/mdausdresden/AzTfBeginnersCourse.git
 
 AzTfBeginners is a simple beginner's course to learn how to create Azure sites with Terraform.
 
